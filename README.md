@@ -1,4 +1,4 @@
-# CyberGuard
+# Business Landing Page | HTML, CSS and JavaScript Template
 
 ## Description
 CyberGuard is a clean and modern business HTML template designed specifically for startups, apps, and IT services. It allows you to showcase your content on mobile devices such as smartphones, tablets, and all types of devices. CyberGuard's design is driven by minimalist and unique sections. With its pixel-perfect layout and neat sectioning, it will help you create a professional-looking website for your business in no time.
